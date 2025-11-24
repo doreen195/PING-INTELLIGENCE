@@ -24,7 +24,7 @@ II.To develop a system  for recording patient information.
 
 ##### Users
 
-I.Doctor - will be able to store prescription and be able to view his attendance to patient.
+I.Doctor - will be able to store prescription and be able to view their attendance to patient.
 
 II.Receptionist- Will be able to view patient condition, admission, visitation and their bill.
 
@@ -57,3 +57,4 @@ Edit
 
 
 	
+
