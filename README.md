@@ -11,6 +11,8 @@ Objectives
 
 The users of the system
 
+Technical Requirements
+
 Functional requirement
 
 ### Introduction
@@ -58,6 +60,7 @@ Edit patient information
 
 
 	
+
 
 
 
