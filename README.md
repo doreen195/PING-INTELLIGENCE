@@ -21,16 +21,15 @@ A biometric system can help address these challenges by reducing costs for patie
 #### Objectives
 I.To develop  a system for storing patients information.
 
-II.To develop a system  for recording patient information.
-
+II.To develop a system for recording and managing patient data.
 
 ##### Users
 
-I.Doctor - will be able to store prescription and be able to view their attendance to patient.
+I.Doctor - Able to store prescriptions and view their attendance records for patients.
 
-II.Receptionist- Will be able to view patient condition, admission, visitation and their bill.
+II.Receptionist- Able to view patient conditions, admissions, visitations, and billing information.
 
-III.Patient - Will be able to view their data, their payment 
+III.Patient - Able to view their personal data and payment information. 
 
 ###### Technical Requirements
 
@@ -48,9 +47,9 @@ Add patient
 
 Delete patient
 
-View
+View patient deatils
 
-Edit
+Edit patient information
 
 
 
@@ -59,5 +58,6 @@ Edit
 
 
 	
+
 
 
